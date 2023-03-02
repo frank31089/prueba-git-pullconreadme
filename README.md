@@ -1,2 +1,2 @@
-# prueba-git-pullconreadme
-este si tiene readme
+# repositorio practicar git pull
+practicar git pull
